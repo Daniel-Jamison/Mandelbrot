@@ -1,8 +1,6 @@
 window.onload = function init()
 
 {	
-	
-	var n = 64;
 	var timestep = 1000
 
 	
