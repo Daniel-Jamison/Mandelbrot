@@ -1,9 +1,9 @@
 window.onload = function init()
 
 {	
-	Display()
+	Screen()
 }
-function Screen(Time,n)
+function Screen()
 {	
 
 	var scale = 1;
