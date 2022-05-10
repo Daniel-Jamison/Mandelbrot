@@ -1,16 +1,7 @@
 window.onload = function init()
 
 {	
-	var timestep = 1000
-
-	
-	var steps = 0;
-	
-	var intervalId = setInterval(function(){Screen(steps,n);
-	   steps++;
-	}, timestep);
-
-
+	Display()
 }
 function Screen(Time,n)
 {	
